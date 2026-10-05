@@ -1,5 +1,5 @@
 // Step 1: Switch to University Database
-use universityDB;
+// use universityDB;
 
 // Step 2: Insert Course Records
 db.courses.insertMany([
